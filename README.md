@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anson! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Anson! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Collaborator+on+Granted" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 - ⚡ **Current Focus:** Computer Science student at NUS, specializing in streamlining workflows through data automation.
 - 🏆 **Hackathons:** Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!) & [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant.
 - 🚀 **Always Learning:** Exploring new frameworks and writing aesthetic, efficient code.
-- 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://linkedin.com/in/ansonng)! *(Note: Please update the URL to your exact LinkedIn handle if it differs)*
+- 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://linkedin.com/in/ansonng)! 
 
 ## 🛠️ Tech Stack
 
@@ -34,18 +34,11 @@
 
 | <div align="center">🎮 Project</div> | <div align="center">📝 Description</div> | <div align="center">🛠️ Tech</div> |
 | :-------- | :----------- | :--------: |
-| [**DragonAssassinBot**](https://github.com/iians0n/DragonAssassinBot) | A dynamic Telegram bot for managing game roles, comprehensive stats tracking, and a real-time subscription UI. | `Python` |
-| [**SecondSelf**](https://github.com/iians0n/SecondSelf) | A personalized conversational tool designed for workflow improvements and task automation. | `Python` |
-| [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` |
-| [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) | Collaborative Hack&Roll 2026 hackathon project. | `TypeScript` |
-| [**Attendify**](https://github.com/ClarenceChoo/Attendify) | Collaborative event management and attendance tracking application. | `TypeScript` |
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iians0n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=36BCF7" alt="Anson's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iians0n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</p>
+| [**DragonAssassinBot**](https://github.com/iians0n/DragonAssassinBot) | A dynamic Telegram bot for managing game roles, comprehensive stats tracking, and a real-time subscription UI. | `Python` • `Telegram API` • `Pillow` |
+| [**SecondSelf**](https://github.com/iians0n/SecondSelf) | A personalized conversational tool designed for workflow improvements and task automation. | `Python` • `LLM APIs` • `Data Automation` |
+| [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
+| [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) | Collaborative Hack&Roll 2026 hackathon project. | `TypeScript` • `Next.js` • `TailwindCSS` |
+| [**Attendify**](https://github.com/ClarenceChoo/Attendify) | Collaborative event management and attendance tracking application. | `TypeScript` • `React` • `PostgreSQL` |
 
 <br/>
 <p align="center">
