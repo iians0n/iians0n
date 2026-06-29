@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anson! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Collaborator+on+Granted" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Finalist+at+Sup%27+Build+2026+Hackathon" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - ⚡ **Current Focus:** Computer Science student at NUS, specializing in streamlining workflows through data automation.
-- 🏆 **Hackathons:** Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!) & [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant.
+- 🏆 **Hackathons:** Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!), [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant & [**Supersede**](https://github.com/ClarenceChoo/Supersede) Finalist at Sup' Build 2026!
 - 🚀 **Always Learning:** Exploring new frameworks and writing aesthetic, efficient code.
 - 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://linkedin.com/in/ansonng)! 
 
@@ -39,6 +39,7 @@
 | [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
 | [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) | Collaborative Hack&Roll 2026 hackathon project. | `TypeScript` • `Next.js` • `TailwindCSS` |
 | [**Attendify**](https://github.com/ClarenceChoo/Attendify) | Collaborative event management and attendance tracking application. | `TypeScript` • `React` • `PostgreSQL` |
+| [**Supersede**](https://github.com/ClarenceChoo/Supersede) | Finalist project at the Sup' Build 2026 Hackathon. | `TypeScript` |
 
 <br/>
 <p align="center">
