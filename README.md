@@ -39,6 +39,7 @@
 | [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
 | [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) | Collaborative Hack&Roll 2026 hackathon project. | `TypeScript` • `Next.js` • `TailwindCSS` |
 | [**Attendify**](https://github.com/ClarenceChoo/Attendify) | Collaborative event management and attendance tracking application. | `TypeScript` • `React` • `PostgreSQL` |
+| [**Granted**](https://github.com/ClarenceChoo/Granted) | Hack4Good 2026 collaborative project — won 2nd Place. | `TypeScript` |
 | [**Supersede**](https://github.com/ClarenceChoo/Supersede) | Finalist project at the Sup' Build 2026 Hackathon. | `TypeScript` |
 
 <br/>
