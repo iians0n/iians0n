@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anson! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Collaborator+on+Granted" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Finalist+at+Sup%27+Build+2026+Hackathon" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - ⚡ **Current Focus:** Computer Science student at NUS, specializing in streamlining workflows through data automation.
-- 🏆 **Hackathons:** Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!) & [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant.
+- 🏆 **Hackathons:** Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!), [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant & [**Supersede**](https://github.com/ClarenceChoo/Supersede) Finalist at Sup' Build 2026!
 - 🚀 **Always Learning:** Exploring new frameworks and writing aesthetic, efficient code.
 - 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://linkedin.com/in/ansonng)! 
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,git,github,aws,bash&theme=dark&perline=10" alt="Tech Stack SVG" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,aws,supabase,vercel,bash&theme=dark&perline=10" alt="Tech Stack SVG" />
   </a>
 </p>
 
@@ -39,6 +39,8 @@
 | [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
 | [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) | Collaborative Hack&Roll 2026 hackathon project. | `TypeScript` • `Next.js` • `TailwindCSS` |
 | [**Attendify**](https://github.com/ClarenceChoo/Attendify) | Collaborative event management and attendance tracking application. | `TypeScript` • `React` • `PostgreSQL` |
+| [**Granted**](https://github.com/ClarenceChoo/Granted) | Hack4Good 2026 collaborative project — won 2nd Place. | `TypeScript` |
+| [**Supersede**](https://github.com/ClarenceChoo/Supersede) | AI-powered platform that analyses construction-site CCTV feeds to auto-detect safety violations, generate reports, and raise real-time alerts. Sup' Build 2026 Finalist. | `TypeScript` • `OpenAI API` • `Supabase` • `Vercel` • `Render` |
 
 <br/>
 <p align="center">
