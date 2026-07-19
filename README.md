@@ -20,7 +20,7 @@
 - ⚡ **Current Focus:** Computer Science student at NUS, specializing in streamlining workflows through data automation.
 - 🏆 **Hackathons:** [**SMEily**](https://github.com/iians0n/SMEily) — 🥇 **Best Pitch & Best Pitch Deck** at the NUS Enterprise Summer Programme; Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!), [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant & [**Supersede**](https://github.com/ClarenceChoo/Supersede) Finalist at Sup' Build 2026!
 - 🚀 **Always Learning:** Exploring new frameworks and writing aesthetic, efficient code.
-- 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://linkedin.com/in/ansonng)! 
+- 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://www.linkedin.com/in/iiansonng/)!
 
 ## 🛠️ Tech Stack
 
