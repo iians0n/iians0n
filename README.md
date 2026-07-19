@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anson! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Finalist+at+Sup%27+Build+2026+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Computer+Science+Student+%40+NUS;Passionate+about+Data+Automation;Streamlining+Workflows+With+Code;Best+Pitch+%26+Best+Pitch+Deck+%40+NUS+Enterprise;Finalist+at+Sup%27+Build+2026+Hackathon" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - ⚡ **Current Focus:** Computer Science student at NUS, specializing in streamlining workflows through data automation.
-- 🏆 **Hackathons:** Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!), [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant & [**Supersede**](https://github.com/ClarenceChoo/Supersede) Finalist at Sup' Build 2026!
+- 🏆 **Hackathons:** [**SMEily**](https://github.com/iians0n/SMEily) — 🥇 **Best Pitch & Best Pitch Deck** at the NUS Enterprise Summer Programme; Collaborator on [**Granted**](https://github.com/ClarenceChoo/Granted) (Won 2nd Place!), [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) Participant & [**Supersede**](https://github.com/ClarenceChoo/Supersede) Finalist at Sup' Build 2026!
 - 🚀 **Always Learning:** Exploring new frameworks and writing aesthetic, efficient code.
 - 📫 **Let's Connect:** Drop me a message on [LinkedIn](https://linkedin.com/in/ansonng)! 
 
@@ -34,6 +34,7 @@
 
 | <div align="center">🎮 Project</div> | <div align="center">📝 Description</div> | <div align="center">🛠️ Tech</div> |
 | :-------- | :----------- | :--------: |
+| [**SMEily**](https://github.com/iians0n/SMEily) 🏆 | 🥇 **Best Pitch & Best Pitch Deck** (NUS Enterprise Summer Programme). An AI back office for home-service SMEs — turns Telegram messages, voice notes & photos into quotes, PayNow invoices, receipt OCR, leads, and a live dashboard. | `Python` • `FastAPI` • `Next.js` • `OpenAI` • `Telegram` |
 | [**DragonAssassinBot**](https://github.com/iians0n/DragonAssassinBot) | A dynamic Telegram bot for managing game roles, comprehensive stats tracking, and a real-time subscription UI. | `Python` • `Telegram API` • `Pillow` |
 | [**SecondSelf**](https://github.com/iians0n/SecondSelf) | A personalized conversational tool designed for workflow improvements and task automation. | `Python` • `LLM APIs` • `Data Automation` |
 | [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
