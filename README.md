@@ -35,13 +35,13 @@
 | <div align="center">🎮 Project</div> | <div align="center">📝 Description</div> | <div align="center">🛠️ Tech</div> |
 | :-------- | :----------- | :--------: |
 | [**SMEily**](https://github.com/iians0n/SMEily) 🏆 | 🥇 **Best Pitch & Best Pitch Deck** (NUS Enterprise Summer Programme). An AI back office for home-service SMEs — turns Telegram messages, voice notes & photos into quotes, PayNow invoices, receipt OCR, leads, and a live dashboard. | `Python` • `FastAPI` • `Next.js` • `OpenAI` • `Telegram` |
-| [**DragonAssassinBot**](https://github.com/iians0n/DragonAssassinBot) | A dynamic Telegram bot for managing game roles, comprehensive stats tracking, and a real-time subscription UI. | `Python` • `Telegram API` • `Pillow` |
-| [**SecondSelf**](https://github.com/iians0n/SecondSelf) | A personalized conversational tool designed for workflow improvements and task automation. | `Python` • `LLM APIs` • `Data Automation` |
-| [**lifehack25**](https://github.com/iians0n/lifehack25) | Innovative data and development project for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
-| [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) | Collaborative Hack&Roll 2026 hackathon project. | `TypeScript` • `Next.js` • `TailwindCSS` |
-| [**Attendify**](https://github.com/ClarenceChoo/Attendify) | Collaborative event management and attendance tracking application. | `TypeScript` • `React` • `PostgreSQL` |
-| [**Granted**](https://github.com/ClarenceChoo/Granted) | Hack4Good 2026 collaborative project — won 2nd Place. | `TypeScript` |
-| [**Supersede**](https://github.com/ClarenceChoo/Supersede) | AI-powered platform that analyses construction-site CCTV feeds to auto-detect safety violations, generate reports, and raise real-time alerts. Sup' Build 2026 Finalist. | `TypeScript` • `OpenAI API` • `Supabase` • `Vercel` • `Render` |
+| [**Granted**](https://github.com/ClarenceChoo/Granted) 🥈 | 🥈 **2nd Place — Hack4Good 2026.** An automated grant-discovery engine for non-profits: an AI assistant plus smart NPO-to-grant matching (vector embeddings) that pushes email digests of relevant funding opportunities. | `React` • `TypeScript` • `Firebase` • `OpenAI GPT-4o` |
+| [**Supersede**](https://github.com/ClarenceChoo/Supersede) 🏅 | 🏅 **Finalist — Sup' Build 2026.** AI-powered platform that analyses construction-site CCTV feeds to auto-detect safety violations, generate reports, and raise real-time alerts. | `TypeScript` • `OpenAI API` • `Supabase` • `Vercel` • `Render` |
+| [**DragonAssassinBot**](https://github.com/iians0n/DragonAssassinBot) 🐉 | A dynamic Telegram bot for managing game roles, comprehensive stats tracking, and a real-time subscription UI. | `Python` • `Telegram API` • `Pillow` |
+| [**SecondSelf**](https://github.com/iians0n/SecondSelf) 🧠 | A personalized conversational tool designed for workflow improvements and task automation. | `Python` • `LLM APIs` • `Data Automation` |
+| [**lifehack25**](https://github.com/iians0n/lifehack25) 💡 | Data & development project built for LifeHack 2025. | `JavaScript` • `React` • `Node.js` |
+| [**Hack&Roll 2026**](https://github.com/jvally/Team-67-hack-roll-2026) ⚡ | Collaborative build from the Hack&Roll 2026 hackathon. | `TypeScript` • `Next.js` • `TailwindCSS` |
+| [**Attendify**](https://github.com/ClarenceChoo/Attendify) 📅 | Collaborative event management and attendance-tracking application. | `TypeScript` • `React` • `PostgreSQL` |
 
 <br/>
 <p align="center">
